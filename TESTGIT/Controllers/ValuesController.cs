@@ -9,7 +9,7 @@ namespace TESTGIT.Controllers
 {
     public class ValuesController : ApiController
     {
-        // GET api/values
+        // GET api/values dzadazdza
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
