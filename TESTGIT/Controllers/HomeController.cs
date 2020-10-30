@@ -10,7 +10,7 @@ namespace TESTGIT.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home TEST";
 
             return View();
         }
